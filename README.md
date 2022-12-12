@@ -12,3 +12,9 @@ for that patient. Random Forest was utilized for fea-
 ture selection and neural network is mainly applied for
 predicting model. We found that the algorithm has an
 accuracy of approximately 88.6%
+
+[View test code](Final_project.ipynb)
+
+[View Report](Math_156_Report_Title.pdf)
+
+[View Presentation Slide](Cancer Tumor Stage Presentation.pdf)
